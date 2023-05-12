@@ -9,7 +9,7 @@ header {
 }
 header a {
   float: right;
-  margin-top: 1.7rem;
+  margin-top: 1.9rem;
   margin-right: 1rem;
   font-size: 1.2rem;
   text-decoration: none;
@@ -47,7 +47,7 @@ nav a:hover {
 }
 article img {
   width: 100%;
-  height: 500px;
+  height: 700px;
 }
 section {
   position: relative;
