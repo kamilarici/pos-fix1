@@ -5,11 +5,11 @@
 }
 header {
   background-color: gold;
-  height: 8rem;
+  height: 6rem;
 }
 header a {
   float: right;
-  margin-top: 3rem;
+  margin-top: 1.7rem;
   margin-right: 1rem;
   font-size: 1.2rem;
   text-decoration: none;
@@ -24,7 +24,7 @@ header img {
   width: 4rem;
   height: 4rem;
   margin-left: 1rem;
-  margin-top: 2rem;
+  margin-top: 1rem;
   cursor: pointer;
   /* position: relative; */
 }
@@ -36,7 +36,7 @@ nav.sticky {
   text-align: center;
   font-size: 1.2rem;
   font-family: Georgia, "Times New Roman", Times, serif;
-  padding: 2rem;
+  padding: 1.3rem;
 }
 nav a {
   text-decoration: none;
